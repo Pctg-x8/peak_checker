@@ -11,6 +11,11 @@ Usage
 
 ダブルクリックして起動するとexeがあるフォルダに対して処理を行います。
 
+Download
+---
+
+releasesから
+
 License
 ---
 
